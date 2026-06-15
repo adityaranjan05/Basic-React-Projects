@@ -22,6 +22,8 @@ This repository documents my journey of learning React through hands-on projects
 
 A simple counter application built using React.
 
+Live Demo: https://react-01-counter-app.vercel.app/
+
 #### Concepts Practiced
 
 - JSX
