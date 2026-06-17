@@ -64,8 +64,25 @@ A simple React application that dynamically changes the background color of the 
 
 ---
 
-### 03.
+### 03. To-Do App
 
+A simple and responsive To-Do application built with React that helps users manage daily tasks efficiently.
+
+#### Features
+
+- Add new tasks
+- Delete tasks
+- Real-time UI updates using React state
+
+#### Concepts Practiced
+
+- JSX
+- Functional Components
+- useState Hook
+- Event Handling
+- Conditional Rendering
+- Array Methods (`map`, `filter`)
+- State Management
 
 ---
 
