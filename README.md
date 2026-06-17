@@ -39,6 +39,34 @@ Live Demo: https://react-01-counter-app.vercel.app/
 - Reset Counter
 - Responsive UI
 
+
+---
+
+### 02. Background Color Changer
+
+A simple React application that dynamically changes the background color of the page.
+
+#### Concepts Practiced
+
+- useState Hook
+- props
+- Event Handling
+- Dynamic Styling
+- React State Updates
+
+#### Features
+
+- Change Background Color
+- Multiple Color Options
+- Interactive UI
+- Real-Time State Updates
+
+
+---
+
+### 03.
+
+
 ---
 
 ## Upcoming Projects
